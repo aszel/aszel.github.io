@@ -1,0 +1,11 @@
+<div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
+{% for img in page.images %}
+{% capture modulo %}{{ forloop.index0 | mod:3 }}{% endcapture %}
+<figure class="galleryimage{% if modulo == '3' %} martin{% endif %}" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="{{ site.aws_bucket_url }}{{ img[0] }}" itemprop="contentUrl" data-size="{{ img[1] }}">
+        <img src="{{ site.aws_bucket_url }}{{ img[0] }}" itemprop="thumbnail" alt="some caption" />
+    </a>
+    <figcaption itemprop="caption description"></figcaption>
+</figure>
+{% endfor %}
+</div>

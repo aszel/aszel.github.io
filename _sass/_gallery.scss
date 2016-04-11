@@ -1,0 +1,14 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+}
+
+.gallery .galleryimage {
+    padding: 0 0.1em;
+    width: 32%;
+}
+
+.gallery figcaption {
+    display: none;
+}
