@@ -1,7 +1,7 @@
 # site settings
 title: aszel.com
 email: badpino@gmail.com
-description: This is the playground of the aszel. There
+description: This is the playground of the aszel.
 url: "http://aszel.com"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog/
 aws_bucket_url: "https://s3.amazonaws.com/aszel123/"
