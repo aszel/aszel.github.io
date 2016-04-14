@@ -2,10 +2,10 @@
 layout: default
 title: aszel.com blog
 permalink: /blog/
-position: 3
 ---
 
 <h1 class="post-title">Blog</h1>
+Just my 2 cents
 
 <ul class="post-list">
 {% for post in site.posts %}
