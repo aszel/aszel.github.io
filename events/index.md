@@ -28,21 +28,6 @@ List to keep track of upcoming events.
 
 <li>
     <p class="post-list-date">
-        <span class="post-meta post-list-date-day">26.03.</span>
-        <span class="post-meta post-list-date-year">2016</span>
-    </p>
-    <h2>
-        <a class="post-link" href="http://www.lido-berlin.de/events/2016-03-26-dead-prez" target="_blank">
-        Dead Prez
-        </a>
-        <p class="post-meta">
-        Lido | Samstag | 20:00 | 22€ 
-        </p>
-    </h2>
-</li>
-
-<li>
-    <p class="post-list-date">
         <span class="post-meta post-list-date-day">28.05.</span>
         <span class="post-meta post-list-date-year">2016</span>
     </p>

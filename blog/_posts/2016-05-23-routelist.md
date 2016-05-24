@@ -6,10 +6,27 @@ categories: martin
 tags: [route, bicycle, routes]
 permalink: blog/:title
 ---
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    thead {
+        text-align: left;
+    }
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+</style>
 
 A list of some rides. <span style="font-style: italic; color: lightgray;">Last update 24.05.2016<span>
 
 <br>
+
+<p>Liste des ESV Lek Berlin-Schönweide</p>
 
 <table>
     <thead>
