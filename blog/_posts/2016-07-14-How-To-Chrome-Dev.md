@@ -6,7 +6,6 @@ categories: martin
 tags: [chrome, computer, gif]
 permalink: blog/:title
 ---
-
 <p>switch files</p>
 <img src="http://i.imgur.com/jkWeqf1.gif">
 
