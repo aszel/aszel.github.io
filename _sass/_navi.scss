@@ -1,5 +1,4 @@
 .site-nav {
-  text-align: center;
 
   @include media-query($on-palm) {
     position: absolute;
@@ -64,7 +63,7 @@
 
 .site-nav ul li a:hover {
   color: white;
-  background-color: #56D9CD;
+  background-color: #2a7ae2;
   text-decoration: none;
 }
 

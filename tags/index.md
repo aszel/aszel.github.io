@@ -7,7 +7,7 @@ position: 5
 ---
 
 <h1 class="post-title">Tags</h1>
-<p>Alle posts nach tags geordnet... einfach so.. weil es geht</p><br>
+<p class="post-title-sub">Alle posts nach tags geordnet... einfach so.. weil es geht</p>
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}

@@ -69,10 +69,15 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-
+    padding-bottom: 15px;
+    color: $grey-color-dark;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+}
+
+.post-title-sub {
+    padding-bottom: 20px;
 }
 
 .post-content {

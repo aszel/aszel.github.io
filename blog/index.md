@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 <h1 class="post-title">Blog</h1>
-Just my 2 cents
+<p class="post-title-sub">Just my 2 cents</p>
 
 <ul class="post-list">
 {% for post in site.posts %}

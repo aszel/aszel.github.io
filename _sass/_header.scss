@@ -1,5 +1,5 @@
 .logo-header {
-    text-align: center;
+
 }
 
 .logo-header:after {
@@ -13,10 +13,16 @@
 }
 
 .logo-header a {
+    display: block;
     text-decoration: none;
-    color: white;
+    color: $grey-color-dark;
+    padding-bottom: 10px;
+    padding-top: 20px;
 }
 
+.logo-header a p {
+    font-size: 2em;
+}
 /**
  * Content header
  */

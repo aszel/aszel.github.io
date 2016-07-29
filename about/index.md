@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <h1 class="post-title">About</h1>
-
+<p class="post-title-sub">Some info about me and legal stuff<p>
 The German "Telemediengesetz" requires that websites must have an "Impressum" disclosing information about the publisher. So, here we go:
 
 <h2>Operator of this website</h2>
