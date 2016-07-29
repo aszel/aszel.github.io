@@ -1,15 +1,19 @@
 ---
 layout: default
-title: aszel.com events
-permalink: /events/
+title: aszel.com links
+permalink: /links/
 
 ---
 
-<h1 class="post-title">Events</h1>
+<h1 class="post-title">Links</h1>
 
-<p>
-List to keep track of upcoming events.
-</p>
+<p class="post-title-sub">oldschool link Liste</p>
+
+<ul class="post-list">
+<li><a href="#">some link</a></li>
+</ul>
+
+
 <!--
 <div id="venue-link-container">
     <a href="">Open all links</a>
@@ -23,23 +27,6 @@ List to keep track of upcoming events.
         <li><a href="" target="_blank"></li>
     </ul>
 </div>
--->
-<ul class="post-list">
-
-<li>
-    <p class="post-list-date">
-        <span class="post-meta post-list-date-day">28.05.</span>
-        <span class="post-meta post-list-date-year">2016</span>
-    </p>
-    <h2>
-        <a class="post-link" href="http://www.koka36.de/taktloss_ticket_69089.html" target="_blank">
-        Taktloss
-        </a>
-        <p class="post-meta">
-        Lido | Samstag | 20:00 | 22€ 
-        </p>
-    </h2>
-</li>
 
 <li>
     <p class="post-list-date">
@@ -55,5 +42,4 @@ List to keep track of upcoming events.
         </p>
     </h2>
 </li>
-
-</ul>
+-->
