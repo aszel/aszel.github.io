@@ -22,7 +22,11 @@ permalink: blog/:title
     }
 </style>
 
-A list of some rides. <span style="font-style: italic; color: lightgray;">Last update 24.05.2016<span>
+Liste von diversen Strecken rund um Berlin <span style="font-style: italic; color: lightgray;">Update 14.08.2016<span>
+
+<br>
+
+<a href="http://www.velothon-berlin.de/tipps-tricks/optimiere-dein-training/trainingsstrecken/" target="_blank">Velothon Trainingsstrecken</a>
 
 <br>
 
