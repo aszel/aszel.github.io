@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    klit
+    oris
 images:
     klit-und-oris/halle.jpg:           600x400
     klit-und-oris/klitoris.jpg:           600x400

@@ -6,7 +6,10 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    moks
+    nero
+    okan
 images:
     mal-wieder/pic_1116.jpg:           600x400
     mal-wieder/pic_1119.jpg:           600x400

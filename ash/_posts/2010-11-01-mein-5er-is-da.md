@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    ash
+    moks
 images:
     mein-5er-is-da/big.jpg:           600x400
     mein-5er-is-da/moksa.jpg:           600x400

@@ -6,7 +6,18 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    ash
+    hall
+    zork
+    moks
+    lois
+    okan
+    ank
+    clit
+    oris
+    wako
+    zoxs
 images:
     die-sosgsn/img_2762.jpg:           600x400
     die-sosgsn/img_2763.jpg:           600x400

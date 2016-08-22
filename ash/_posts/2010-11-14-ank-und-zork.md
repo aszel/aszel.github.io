@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    ank
+    zork
 images:
     ank-und-zork/img_2795.jpg:           600x400
     ank-und-zork/img_2799.jpg:           600x400

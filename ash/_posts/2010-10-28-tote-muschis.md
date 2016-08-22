@@ -6,7 +6,8 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    moks
 images:
     tote-muschis/z.jpg:           600x400
 ---

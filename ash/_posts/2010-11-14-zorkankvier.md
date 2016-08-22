@@ -6,7 +6,11 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    ash
+    zork
+    ank
+    vier
 images:
     zorkankvier/foto0021.jpg:           600x400
     zorkankvier/imag4441.jpg:           600x400

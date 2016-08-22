@@ -6,7 +6,11 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    okan
+    risot
+    nine
+    dezio
 images:
     2010_10_ninedesiorisote_okan/imag0112.jpg:           600x400
     2010_10_ninedesiorisote_okan/imag0118.jpg:           600x400

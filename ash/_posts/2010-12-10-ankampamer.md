@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    ank
+    amer
 images:
     ankampamer/04122001.jpg:           600x400
     ankampamer/04122002.jpg:           600x400
