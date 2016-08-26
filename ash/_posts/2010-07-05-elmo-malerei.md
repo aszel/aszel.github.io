@@ -6,7 +6,8 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    elmo
 images:
     elmo-malerei/img_2203.jpg:           600x400
 ---

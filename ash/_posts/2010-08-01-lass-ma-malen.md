@@ -6,7 +6,10 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    zork
+    vier
+    zoxs
 images:
     lass-ma-malen/img_2033.jpg:           600x400
     lass-ma-malen/img_2036.jpg:           600x400

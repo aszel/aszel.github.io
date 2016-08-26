@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    ank
+    zork
 images:
     ankzork-halle/halle.jpg:           600x400
     ankzork-halle/halle2.jpg:           600x400

@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    vier
+    ank
 images:
     vier-und-ank/vier-u-ank_.jpg:           600x400
 ---

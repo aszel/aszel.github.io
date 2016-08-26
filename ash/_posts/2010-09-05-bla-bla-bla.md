@@ -6,7 +6,10 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    ank
+    okan
+    wako
 images:
     bla-bla-bla/img_2624.jpg:           600x400
     bla-bla-bla/img_2627.jpg:           600x400

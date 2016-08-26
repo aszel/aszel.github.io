@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    nero
+    spast
 images:
     spastnero/nero.jpg:           600x400
     spastnero/spast.jpg:           600x400

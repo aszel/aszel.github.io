@@ -6,7 +6,8 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    ash
 images:
     parkbombe-vom-kranken/23072010002_0001.jpg:           600x400
 ---

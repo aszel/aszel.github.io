@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    wako
+    möse
 images:
     im-suff-gut-druff/img_2218.jpg:           600x400
     im-suff-gut-druff/img_2219.jpg:           600x400

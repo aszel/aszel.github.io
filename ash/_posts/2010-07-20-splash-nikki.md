@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    splash
+    t-shirt
 images:
     splash-nikki/p1010113.jpg:           600x400
     splash-nikki/p1010114.jpg:           600x400

@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    zork
+    ank
 images:
     schrecklich-verpimmelt/p100912_193301_0001.jpg:           600x400
     schrecklich-verpimmelt/p100912_194109_0001.jpg:           600x400
