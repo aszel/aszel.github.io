@@ -7,21 +7,28 @@ permalink: /blog/
 <h1 class="post-title">Blog</h1>
 <p class="post-title-sub">Just my 2 cents</p>
 
-<ul class="post-list">
+<div class="posts">
+<ul>
 {% for post in site.posts %}
 {% if post.categories contains 'martin' %}
-<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-    <li>
-        <p class="post-list-date">
-            <span class="post-meta post-list-date-day">{{ post.date | date: "%-d %b" }}</span>
-            <span class="post-meta post-list-date-year">{{ post.date | date: "%Y" }}</span>
-        </p>
-        <h2>
-            {{ post.title }}
-            <p class="post-meta">{% if post.meta %}{{ post.meta }}{% endif %}</p>
-        </h2>
-    </li>
+<li>
+<a href="{{ post.url }}">
+<span class="left">
+<span class="date">{{ post.date | date: "%-d/%b" }}</span>
+<span class="year">{{ post.date | date: "%Y" }}</span>
+</span>
+<span class="right">
+<span class="title">{{ post.title }}</span>
+{% if post.tags %}
+{% for tag in post.tags %}
+<span class="tags">#{{ tag }}</span>
+{% endfor %}
+{% endif %}
+</span>
+<span class="clear"></span>
 </a>
+</li>
 {% endif %}
 {% endfor %}
 </ul>
+</div>

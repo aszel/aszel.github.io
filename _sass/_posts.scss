@@ -1,3 +1,78 @@
+.posts ul {
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+.posts ul li {
+    display: block;
+    clear: both;
+    margin-bottom: 20px;
+    padding: 0;
+    line-height: 1.1;
+}
+
+.posts .left {
+    display: block;
+    float: left;
+    padding-right: 20px;
+    min-width: 70px;
+}
+
+.posts a {
+    display: block;
+}
+
+.posts a span {
+    transition: color ease-out .1s;
+    color: #111;
+}
+
+.posts .right {
+    display: block;
+    float: left;
+    width: 65%;
+}
+
+.posts .right .title {
+    font-size: 25px;
+    margin-bottom: 4px;
+}
+
+.posts .right span {
+    display: block;
+}
+
+.posts .tags {
+    float: left;
+    padding-right: 10px;
+    font-size: 13px;
+    font-family: 'Lato';
+    color: #7ac3c3;
+}
+
+.clear {
+    clear: both;
+    display: block;
+}
+
+.posts .date, .posts .year {
+    display: block;
+    text-align: right;
+}
+
+.posts .date {
+    font-size: 19px;
+    color: #da0a7a;
+}
+.posts .year {
+    text-align: right;
+    font-size: 13px;
+    line-height: 13px;
+}
+
+/******************************** new stuff above */
+
 .post-list {
     margin-left: 0;
     list-style: none;
