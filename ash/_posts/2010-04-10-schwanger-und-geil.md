@@ -6,7 +6,11 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    puller
+    wako
+    zork
+    ash
 images:
     schwanger-und-geil/dead-body.jpg:           600x400
     schwanger-und-geil/schwanger-und-geil.jpg:           600x400

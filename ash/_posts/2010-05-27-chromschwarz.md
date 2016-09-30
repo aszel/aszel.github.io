@@ -6,7 +6,10 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    wako
+    zork
+    amer
 images:
     chromschwarz/img_1457.jpg:           600x400
     chromschwarz/img_1456.jpg:           600x400

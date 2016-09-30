@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    moks
+    fotze
 images:
     moksfotze/moks.jpg:           600x400
     moksfotze/moksfotze.jpg:           600x400

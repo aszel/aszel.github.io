@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    porno
+    balken
 images:
     pornobalken/balken.jpg:           600x400
     pornobalken/porno.jpg:           600x400

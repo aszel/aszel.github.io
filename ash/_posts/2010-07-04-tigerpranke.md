@@ -6,7 +6,8 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    moks
 images:
     tigerpranke/pic_1015.jpg:           600x400
 ---

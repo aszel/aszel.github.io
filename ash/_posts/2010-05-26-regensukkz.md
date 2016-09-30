@@ -6,7 +6,10 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    klit
+    sack
+    milf
 images:
     regensukkz/img_1444.jpg:           600x400
     regensukkz/img_1445.jpg:           600x400

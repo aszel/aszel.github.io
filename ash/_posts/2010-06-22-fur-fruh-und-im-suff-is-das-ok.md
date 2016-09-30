@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    zork
+    wako
 images:
     fur-fruh-und-im-suff-is-das-ok/joo.jpg:           600x400
     fur-fruh-und-im-suff-is-das-ok/img_2067.jpg:           600x400

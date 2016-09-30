@@ -6,7 +6,10 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    zoxs
+    wako
+    zork
 images:
     es-richt-nach-kot/a.jpg:           600x400
     es-richt-nach-kot/b.jpg:           600x400

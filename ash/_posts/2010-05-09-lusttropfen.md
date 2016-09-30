@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    lust
+    tropfen
 images:
     lusttropfen/lust.jpg:           600x400
     lusttropfen/lusttropfen3.jpg:           600x400

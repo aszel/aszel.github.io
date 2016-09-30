@@ -6,7 +6,10 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    elmo
+    moks
+    wako
 images:
     elmo-moks-wako-gros/wako.jpg:           600x400
     elmo-moks-wako-gros/alle.jpg:           600x400

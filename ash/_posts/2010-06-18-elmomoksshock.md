@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    moks
+    elmo
 images:
     elmomoksshock/p1010032.jpg:           600x400
     elmomoksshock/p1010038.jpg:           600x400

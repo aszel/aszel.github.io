@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    pups
+    nurse
 images:
     nurse-und-pups/nurse-pups.jpg:           600x400
     nurse-und-pups/nurse.jpg:           600x400

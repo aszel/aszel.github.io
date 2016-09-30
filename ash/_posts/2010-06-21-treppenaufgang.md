@@ -6,7 +6,9 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    moks
+    elmo
 images:
     treppenaufgang/p1010056.jpg:           600x400
     treppenaufgang/p1010061.jpg:           600x400

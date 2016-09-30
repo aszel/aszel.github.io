@@ -6,7 +6,11 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    wako
+    amer
+    elmo
+    ash
 images:
     hohenflug/img_1943.jpg:           600x400
     hohenflug/img_1944.jpg:           600x400

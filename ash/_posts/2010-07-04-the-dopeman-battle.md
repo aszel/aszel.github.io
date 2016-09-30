@@ -6,7 +6,8 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:
-tags:       []
+tags:
+    dope
 images:
     the-dopeman-battle/img_2207.jpg:           600x400
     the-dopeman-battle/img_2212.jpg:           600x400
