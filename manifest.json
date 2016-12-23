@@ -3,7 +3,7 @@
  "name": "aszel power 3000",
  "display": "standalone",
  "theme_color": "#f90000",
- "background_color":"#ffffff"
+ "background_color":"#ffffff",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
