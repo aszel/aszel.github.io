@@ -2,7 +2,7 @@
  "short_name" : "aszel",
  "name": "aszel power 3000",
  "display": "standalone",
- "start_url": "/_site/index.html",
+ "start_url": "/index.html",
  "theme_color": "#f90000",
  "background_color":"#ffffff",
  "icons": [
