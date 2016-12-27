@@ -3,7 +3,7 @@
  "name": "aszel power 3000",
  "display": "standalone",
  "start_url": "/index.html",
- "theme_color": "#f90000",
+ "theme_color": "#ff007f",
  "background_color":"#ffffff",
  "icons": [
   {
