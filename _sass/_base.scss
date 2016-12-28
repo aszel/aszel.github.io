@@ -54,7 +54,14 @@ img {
     vertical-align: middle;
 }
 
+.image {
+    max-width: 250px;
+}
 
+.caption {
+    font-style: italic;
+    color: $grey-color-light;
+}
 
 /**
  * Figures
