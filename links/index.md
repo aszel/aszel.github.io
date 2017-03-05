@@ -43,4 +43,12 @@ Video Tutorials zum Thema Programmierung
 <li><a href="https://www.youtube.com/user/shiffman/" target="_blank">Daniel Shiffman</a> - Er hat auch eine eigene <a href="http://www.shiffman.net" target="_blank">Website</a></li>
 </ul>
 
+<div class="links-list">
+Fahrrad
+<ul>
+<li><a href="http://waymarkedtrails.org/" target="_blank">Waymarkedtrails.org</a> - Gute Seite mit nationalen und internationalen Tracks</li>
+<li><a href="http://www.gpsies.com/" target="_blank">Gpsies.com</a></li>
+</ul>
+</div>
+
 </div>
