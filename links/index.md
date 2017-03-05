@@ -36,12 +36,14 @@ Sammlung von Spielen
 <ul>
 <li><a href="https://github.com/leereilly/games" target="_blank">Games Liste auf Github</a></li>
 </ul>
+</div>
 
 <div class="links-list">
 Video Tutorials zum Thema Programmierung
 <ul>
 <li><a href="https://www.youtube.com/user/shiffman/" target="_blank">Daniel Shiffman</a> - Er hat auch eine eigene <a href="http://www.shiffman.net" target="_blank">Website</a></li>
 </ul>
+</div>
 
 <div class="links-list">
 Fahrrad
@@ -49,6 +51,4 @@ Fahrrad
 <li><a href="http://waymarkedtrails.org/" target="_blank">Waymarkedtrails.org</a> - Gute Seite mit nationalen und internationalen Tracks</li>
 <li><a href="http://www.gpsies.com/" target="_blank">Gpsies.com</a></li>
 </ul>
-</div>
-
 </div>
