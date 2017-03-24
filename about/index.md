@@ -12,20 +12,20 @@ permalink: /about/
 <a href="https://twitter.com/aszel" target="_blank">Twitter</a>,
 <a href="https://github.com/aszel" target="_blank">Github</a>,
 <a href="https://www.instagram.com/aszel/" target="_blank">Instagram</a>,
-<a href="http://aszel.tumblr.com/" target="_blank">Tumblr</a>,
-
+<a href="http://aszel.tumblr.com/" target="_blank">Tumblr</a>
+<br/>
 <h2>Legal stuff</h2>
 The German "Telemediengesetz" requires that websites must have an "Impressum" disclosing information about the publisher. So, here we go:
-
+<br/>
 <h3>Operator of this website</h3>
 Martin Becker, Rudolf-Reusch-Str. 27, 10367 Berlin
-
+<br/>
 <h3>Contact</h3>
 Email: martinbecker.de+aszel@gmail.com
 Mobile: +49 173 752 1924
 <br>
 Person responsible for the content on this website (Verantwortliche für die Inhalte auf der Seite gemäß § 55 Abs. 2 RStV): Martin Becker
-
+<br/>
 <h3>Liability for Content</h3>
 I make every effort to keep the information on this Website up-to-date, but accept no liability whatsoever for the content provided.
 
