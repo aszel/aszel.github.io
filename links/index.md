@@ -19,6 +19,7 @@ Blogs denen ich folge
 <li><a href="http://hakim.se/" target="_blank">hakim.se</a></li>
 <li><a href="http://koaning.io/" target="_blank">koaning.io</a></li>
 <li><a href="http://www.joelonsoftware.com/" target="_blank">joelonsoftware.com</a></li>
+<li><a href="http://asmaier.blogspot.de/" target="_blank">asmaier.blogspot.de</a></li>
 </ul>
 </div>
 
