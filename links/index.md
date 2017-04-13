@@ -53,3 +53,10 @@ Fahrrad
 <li><a href="http://www.gpsies.com/" target="_blank">Gpsies.com</a></li>
 </ul>
 </div>
+
+<div class="links-list">
+Tools für dies und das
+<ul>
+<li><a href="https://www.google.com/intl/en/chrome/demos/speech.html" target="_blank">Google Chrome speech to text</a></li>
+</ul>
+</div>
