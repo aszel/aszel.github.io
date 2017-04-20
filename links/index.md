@@ -58,5 +58,6 @@ Fahrrad
 Tools für dies und das
 <ul>
 <li><a href="https://www.google.com/intl/en/chrome/demos/speech.html" target="_blank">Google Chrome speech to text</a></li>
+<li><a href="https://www.kaggle.com/" target="_blank">Kaggle.com - open datasets</a></li>
 </ul>
 </div>
